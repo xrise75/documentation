@@ -1,6 +1,6 @@
 .. figure:: _static/orfeuslogo.jpg
 
-Inroduction
+Introduction
 ===========
 
 ORFEUS (Observatories and Research Facilities for European Seismology) is a collaborative non-profit foundation that promotes seismology in the Euro-Mediterranean area through the collection, archival and distribution of digital seismic waveform data, metadata and derived products. 
