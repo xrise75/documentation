@@ -3,7 +3,7 @@
 EIDA Nodes
 ==========
 
-EIDA nodes are data centers that archive data from seismic networks deploying broad-band sensors, short period sensors, accelerometers, infrasound sensors, and other geophysical instruments. Currently ten nodes are contributing data to EIDA. Nine primary nodes have committed resources to support operation and further development. Data access is standardized across EIDA and nodes may provide additional data services.
+EIDA nodes are data centers that archive data from seismic networks deploying broad-band sensors, short-period sensors, accelerometers, infrasound sensors, and other geophysical instruments. Currently, ten nodes are contributing data to EIDA. Nine primary nodes have committed resources to support operation and further development. Data access is standardized across EIDA and nodes may provide additional data services.
 
 .. list-table:: EIDA Nodes
    :widths: 25 50 25
@@ -51,7 +51,7 @@ EIDA nodes are data centers that archive data from seismic networks deploying br
 
    * - `NOA`_
      - Greece
-     - 2014
+     - 2016
 
    * - `UIB / NORSAR`_
      - Norway
@@ -104,6 +104,9 @@ Point of Contact: Didem Cambaz
 NOA
 ***
 NOA provides services and access tools to all EIDA stations with unrestricted data access. The homepage of the EIDA node hosted by the National Observatory of Athens can be found `here <https://eida.gein.noa.gr/>`_. The homepage of the Institute of Geodynamics hosted by the National Observatory of Athens can be found `here <https://bbnet.gein.noa.gr/>`_.
+
+Point of contact: Christos Evangelidis
+
 
 UIB / NORSAR
 ************
